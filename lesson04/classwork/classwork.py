@@ -6,9 +6,8 @@ print("კი")
 
 
 
-inputexample = ("მუშაობს თუ არა ჩემი მაცივარი")
+inputexample = input("მუშაობს თუ არა ჩემი მაცივარი")
 print("კი")
 #updait
-inputexample = ("444")
+inputexample = input("444")
 print(inputexample)
-
