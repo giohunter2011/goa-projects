@@ -17,7 +17,7 @@ print(mom)
 print(dad)
 print(sister)
 
-name = 'gio
+name = 'gio'
 name = 'gio'
 #კონკატინაცია არია შეცდომის გასწორება
 
